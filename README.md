@@ -19,7 +19,7 @@ A GitHub repository, preferably named: **ih_datamadpt0420_project_m2**, includin
 ### **Presentation:**
 
 - **Time:** 2 minutes sharp.
-- **Content:** explain why your dashboard funtionalities are the best for getting meaningful data insights. Support your arguments in the conclusions obtained from the exploratory analysis.
+- **Content:** explain why your dashboard funtionalities are the best for getting meaningful data insights. Support your arguments in the conclusions obtained from the exploratory analysis. Conclude your pitch telling us (in one sentence) the most important insight (under your criteria) you've extracted.
 - **You only need your Dashboard (no Jupyter, no PowerPoint, no nothing!!!)**
 
     :point_up: :point_up: :point_up: :point_up: :point_up: :point_up: :point_up: :point_up: :point_up: :point_up: :point_up: :point_up:
