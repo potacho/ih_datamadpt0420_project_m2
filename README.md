@@ -54,3 +54,9 @@ This project does not have a mere academic approach, but goes beyond that challe
 ## ToDo
 
 As next steps, it will be interesting to further enrich basic diamonds dataset in order to make this code magic engine that can tell you practical information about your diamonds departing from very simple raw data.
+
+---
+
+## Feedback
+
+Any suggestion or correction would be a welcomed gift. Please, do not hesitate to submit any improvement proposal!
