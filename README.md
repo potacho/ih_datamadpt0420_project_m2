@@ -1,14 +1,19 @@
 # **Ironhack Visualization Module Project**
 
+
 ## **Data:**
 
 The raw dataset can be downloaded [here](http://www.potacho.com/files/ironhack/diamonds_train.csv) and the processed dataset could be found [here] (diamonds_result.csv).
+
+---
 
 ## **Summary:**
 
 Insightful code and dashboard to learn more about your diamonds dataset and how to use it in real life
 
 ![Let's learn more about it!](Audreylookingintothebag.jpg)
+
+---
 
 ## **Description:**
 
@@ -43,6 +48,7 @@ The dashboard helps to directly play with and visualized the processed data.
 This project does not have a mere academic approach, but goes beyond that challenge trying to connect it with a practical use, be it the presumption that we want to commercialize these diamonds. 
 
 --- 
+
 ## ToDo
 
 As next steps, it will be interesting to further enrich basic diamonds dataset in order to make this code magic engine that can tell you practical information about your diamonds departing from very simple raw data.
