@@ -21,7 +21,7 @@ Let's learn more about this project!
 
 The code developed throughout the four notebooks cleans (*Data Exploration*), enriches (*Data Manipulation*), an sheds light through graphs on how diamonds are priced regarding diamonds' 4Cs, their measures and volume (*Price-Variables relation*) and how each should be commercialized according to these characteristics (*Conclusions*). As the foregoing attributes are the most basic information given from any existing diamond, it will be useful to any user that wants to understand better the quality and price approppriateness of the diamonds dataset he/she is managing.
 
-The dashboard helps to directly play with and visualized the processed data.
+The [dashboard](https://public.tableau.com/profile/carmen.cuadrado#!/vizhome/DiamondsDatasetVisualization/DiamondsGuide) helps to directly play with and visualized the processed data. 
 
 ---
 
@@ -53,7 +53,7 @@ This project does not have a mere academic approach, but goes beyond that challe
 
 ## ToDo
 
-As next steps, it will be interesting to further enrich basic diamonds dataset in order to make this code magic engine that can tell you practical information about your diamonds departing from very simple raw data.
+As next steps, it will be interesting to further enrich basic diamonds dataset in order to make this code magic engine that can tell you practical information about your diamonds only needing very simple raw data.
 
 ---
 
