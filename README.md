@@ -3,7 +3,7 @@
 
 ## **Data:**
 
-The raw dataset can be downloaded [here](http://www.potacho.com/files/ironhack/diamonds_train.csv) and the processed dataset could be found [here] (diamonds_result.csv).
+The raw dataset can be downloaded [here](http://www.potacho.com/files/ironhack/diamonds_train.csv) and the processed dataset could be found [here](diamonds_result.csv).
 
 ---
 
