@@ -9,7 +9,7 @@ The raw dataset can be downloaded [here](http://www.potacho.com/files/ironhack/d
 
 ## **Summary:**
 
-Insightful code and dashboard to learn more about your diamonds dataset and how to use it in real life
+Insightful code and dashboard that enable you to get to know better your diamonds dataset and how to use it in real life
 
 Let's learn more about this project!
 
